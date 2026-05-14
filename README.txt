@@ -1,5 +1,9 @@
-virtual environment- Sketch_ArtIst_env\Scripts\activate
-To deactivate- deactivate
-execute- python main.py
-huggingface token -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
-login code- huggingface-cli login
+Virtual environment:
+Sketch_ArtIst_env\Scripts\activate
+
+Run:
+python main.py
+
+Configuration:
+Set HUGGINGFACE_API_TOKEN in your environment before using Hugging Face features.
+Never commit API tokens or secrets to this repository.
